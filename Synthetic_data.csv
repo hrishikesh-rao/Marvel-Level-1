@@ -1,0 +1,101 @@
+Transaction_ID,Account_ID,Transaction_Date,Transaction_Amount,Merchant_Category,Transaction_Type,Location,is_fraud
+e3f98ddd-4b8b-4b9d-b258-4be0f3751ae6,ACC82455192,2025-09-27,937268.78,Tax,Credit,Masseymouth,False
+c6468ed4-cdde-4c66-bc98-ed480f041722,ACC75108526,2025-05-14,787591.32,Education,Credit,North Angela,False
+fed45b6f-7887-46f8-bdc9-0b1ac7b3e70d,ACC84817684,2025-07-21,898985.48,E-commerce,Debit,Port Christine,False
+f219d1e8-7612-4f06-a7df-a0e2bcf49a24,ACC25366306,2024-12-02,388769.7,Medicine,Debit,North Diana,False
+e846961a-6de6-47a7-b096-33469d131430,ACC24126441,2025-12-24,558933.0,Education,Credit,Jeffreyfurt,False
+c232d338-06e5-44d5-8c82-26fe577cf422,ACC80283100,2025-03-07,415677.88,Tax,Credit,East Shelby,False
+0dffe929-f730-4254-8a39-43a8bf043d7c,ACC58942186,2025-05-23,699667.21,Medicine,Debit,Michaelport,False
+2cb91c3f-2057-4afb-9213-fb3a0916ebc3,ACC33852344,2023-05-12,832840.82,Tax,Credit,Hintonshire,False
+cd38491c-a4b0-4db6-ae06-74b8488c303e,ACC55325117,2025-02-01,643358.28,Retail,Credit,Kimberlyton,False
+d159d87e-2ef5-4da4-acd4-ab5d784ca94c,ACC80105785,2024-04-23,242328.03,Medicine,Credit,Port Beverlymouth,False
+1736b516-f1b6-4ae1-96ac-28dc1c6857c3,ACC24611349,2024-12-17,572767.14,Retail,Credit,North Steven,False
+56b52823-8731-4268-8f94-8e96b4a6c8b3,ACC37633057,2025-09-02,72881.14,Retail,Credit,Carlbury,False
+3db8a5a6-aa36-467f-b039-9e48120de887,ACC29133541,2024-06-15,272592.18,E-commerce,Credit,Nicolehaven,False
+aaaf13ea-5823-4d5f-89d4-985418a2f32d,ACC69734238,2023-09-19,736729.54,Tax,Credit,West Meganview,False
+b38c5c4b-4484-4afb-aa7c-51a0920d7d22,ACC81356910,2024-07-07,513420.53,Medicine,Credit,West Ashleyton,False
+f8f67dc6-ffb2-4a3b-a382-be615e640c39,ACC11384913,2024-07-04,496095.54,E-commerce,Debit,Seantown,False
+afcd7754-a3df-4250-86fd-de75000e0f76,ACC78376876,2023-12-19,32158.7,E-commerce,Debit,East Sherry,False
+dc797602-9140-4e40-9e00-1a5e6045cfc7,ACC28821521,2026-01-31,509669.6,Retail,Debit,Garrettburgh,False
+8ce0be70-637a-4336-bc91-9e19d232094c,ACC96558128,2025-02-26,397956.56,E-commerce,Debit,North Angela,False
+20558862-1b6a-4552-87a1-ef12114516ff,ACC23257122,2025-04-11,195700.46,Retail,Debit,South Jenniferfurt,False
+bd5613cd-5e07-41cb-aceb-6c938b4e0300,ACC52427639,2025-10-28,60976.13,Medicine,Debit,Joymouth,False
+f4046053-67cf-4c2c-b15d-e2b32e7ac32a,ACC69739663,2023-04-16,86200.64,Tax,Credit,East Dominiquefurt,False
+7da14620-df6c-428b-b4ed-54b136d04621,ACC86709792,2025-01-13,897989.6,Education,Credit,Cantrellville,False
+a58ed0ab-c48a-4f82-8e1e-d4a8ee94b47d,ACC60899515,2025-05-13,683554.64,Education,Debit,Lake Bradley,False
+5a95e2b9-2d56-443b-8cee-982d68d37009,ACC67115313,2025-11-30,500683.98,E-commerce,Credit,Skinnerland,False
+28eb6ab5-edc3-43e5-8560-78dd6a040d4d,ACC80115292,2025-02-28,762758.77,Education,Debit,Kristinatown,False
+751cf4df-7099-4a70-8555-c4b839a787b6,ACC26181519,2023-09-14,822685.94,Retail,Credit,Maryfurt,False
+016ea973-c9bd-456e-83fe-ff79935620e9,ACC73426695,2024-02-21,502684.1,E-commerce,Credit,West Rubenchester,False
+34886dcb-ab3a-4587-a3f6-76dacc5dc4fe,ACC72821646,2024-03-10,773890.18,Medicine,Debit,Jenniferview,False
+6cde5330-995c-43bf-a290-e9c5bea7b9a1,ACC95688130,2024-12-13,535660.0,Tax,Credit,West Derek,False
+70e9cf32-f0de-4837-8b87-433e26f0136c,ACC97528451,2024-03-16,490182.5,Medicine,Credit,Campbellbury,True
+f8c46ade-60ed-42ce-86fb-5ab6f922bf0f,ACC78524023,2025-05-07,163681.02,E-commerce,Debit,Gardnerfort,False
+a288a1dc-419d-41c8-b5aa-e8fedcb3a251,ACC71029256,2025-08-03,256906.21,Medicine,Credit,North Jeffrey,False
+315681e7-3d93-4bd0-afe5-9cfaaf8fa7c1,ACC19068437,2024-08-10,29194.96,E-commerce,Debit,West Benjamin,True
+68a1d356-6a50-401c-b2e0-2e2c712775f1,ACC81455584,2024-01-24,666706.67,Tax,Credit,Wandamouth,False
+11867422-123d-4f25-a7ea-78c5e5015ec8,ACC54314884,2025-09-12,757694.32,Tax,Credit,Melissaview,False
+32dea4aa-ae28-4c09-bb64-c5a0718cdaa6,ACC83086043,2025-02-16,613995.11,Medicine,Debit,East Dustinbury,False
+61370c23-45fe-4a96-93de-7b6f0deea01a,ACC29471637,2024-02-11,620604.6,E-commerce,Debit,Delgadoville,False
+8c5de619-16b1-48e8-bf63-3f68850be76b,ACC15927426,2024-01-25,278052.33,Tax,Credit,West Linda,False
+d34d2e3c-4f98-475c-a25a-72822f1a1b36,ACC86147363,2026-01-29,688756.04,Medicine,Credit,Harrishaven,False
+d457d2a8-4483-4502-a2da-fc34fae4c9ed,ACC12941973,2024-07-23,58747.75,Retail,Debit,South Michellefurt,False
+660482b8-67a1-48e6-8137-92cace5f5e2a,ACC15506912,2024-06-24,739452.33,Education,Credit,Markville,True
+52b21d21-e27f-43c8-8569-fd5ade4fc423,ACC36624744,2023-05-03,550806.84,Medicine,Credit,East Sarahchester,False
+7dcd79a0-6e46-41d3-be6f-8180f903d538,ACC68352597,2024-11-10,560113.09,Retail,Credit,New Mariahhaven,False
+e6137ea2-08c5-4d82-b6dc-24c871d88305,ACC85121925,2023-08-30,16312.77,E-commerce,Credit,Port Kyle,False
+7afa9efe-ab2f-49fb-b72a-d42ab7269413,ACC61872810,2023-12-17,293588.63,Education,Debit,New John,False
+704087ce-e642-407c-be46-37c9f0598937,ACC82389105,2024-01-28,793295.57,E-commerce,Debit,Nicholasport,False
+7d677a93-3e53-473f-a5e9-9ac2330c945c,ACC43468030,2025-04-25,715402.3,E-commerce,Credit,Griffinstad,False
+485d4590-7a38-4ec8-b77b-b0d6b929cf44,ACC17189343,2025-05-31,653135.44,Tax,Credit,New Emilyland,False
+6a8bc2af-9e58-4e67-bd00-21607d5fe306,ACC20752771,2025-11-16,461445.83,E-commerce,Debit,West Nicoleborough,False
+7a6f8dfa-2c4d-409b-856d-b0fb7a63734f,ACC39816802,2023-05-24,758759.44,Medicine,Credit,East Carlaborough,False
+c3ca1010-9aaf-475a-84e2-019305217f9b,ACC95303164,2023-03-03,32330.17,Medicine,Debit,Derekberg,False
+248726ca-e69e-401e-8765-c6889dfab484,ACC60377482,2024-08-06,100976.36,Medicine,Credit,Jonathanview,True
+a56d64f5-f8ee-4c47-9cb9-e87a791618cf,ACC78616056,2025-12-11,932901.25,E-commerce,Debit,Tuckerview,False
+7114bf6f-9d62-4cbe-ac00-f1c247088184,ACC68498472,2023-10-16,902531.43,Retail,Debit,Chambersport,False
+03cbcfe2-71e0-459d-8762-c0b100a441c6,ACC79751857,2024-10-17,317561.98,Tax,Debit,Lake Michaelmouth,False
+322a02b1-54df-4bd1-8c8a-afe4ba7a8bfe,ACC59592245,2024-09-01,158601.47,Education,Credit,Lefurt,False
+93249fd9-a687-448c-a6ab-a83107fa099c,ACC25499204,2023-07-21,88100.02,Medicine,Credit,Port Krystal,False
+60f3b457-81a4-49f6-abda-daba64202bf2,ACC27841768,2023-07-24,738781.21,Retail,Debit,Lake Robertchester,True
+86f4dd3d-7cff-4130-8f05-4d415f9ef73c,ACC24746755,2025-01-23,714148.14,E-commerce,Credit,Kingfort,False
+4c928e80-529e-4efd-8fcb-e4baf87f5622,ACC25718865,2025-12-21,579273.76,Tax,Debit,Lindastad,False
+1f795e73-3a86-49ce-8ec1-5c266450b7e0,ACC69883893,2024-01-05,156285.04,E-commerce,Credit,Douglasshire,False
+ebb9e26a-33af-4b3b-b54b-7f7162617e9b,ACC17773441,2024-07-26,775735.18,Tax,Credit,East Kennethside,False
+3b25efe3-a044-45bb-a760-d452823d13de,ACC56661203,2023-11-14,563326.83,Education,Debit,Lake Adam,False
+ae9c94e9-4344-4dc1-9a6b-6bfbd23f5b36,ACC38349486,2025-03-14,165416.69,Retail,Credit,Jessicachester,False
+8dd79439-b0e3-4e82-8ea1-19f41c47f1e5,ACC21419878,2025-04-11,231239.18,Education,Credit,North Jonathanfort,False
+b2d478fb-0a78-47e0-9968-afb211f7894f,ACC87588459,2024-10-09,2061.45,Tax,Credit,Leonburgh,True
+05324901-0670-4547-af50-00d3fd82fc3f,ACC83304615,2023-03-12,609775.57,E-commerce,Credit,Bennetthaven,True
+5154a6e5-474b-4889-a8d3-eed7442419fd,ACC93858463,2025-05-29,775549.74,Retail,Debit,Maxwellport,True
+a79f6e9f-5204-4302-8ed4-ee706f15617f,ACC72696634,2025-01-21,827805.12,Retail,Debit,Port Thomas,False
+19c934f1-fa19-4ea8-ae2c-4ffbdde10249,ACC72292924,2024-10-26,720987.92,E-commerce,Debit,Johnsonton,False
+edca9499-c476-4289-91e7-2ea6129a8afb,ACC77623585,2024-03-03,27764.44,Tax,Credit,New Phillip,False
+e9517d6e-4a02-4c77-92db-78e500a27863,ACC31909345,2025-09-01,870244.91,E-commerce,Debit,North Scottmouth,False
+5a51aaeb-11de-48af-9113-f413eacc435e,ACC49991635,2025-11-25,783187.99,Retail,Credit,Laurenland,True
+48a9575b-4d35-4d22-b2c3-6b0002644772,ACC46443989,2023-02-28,113522.58,Retail,Debit,Ryanbury,False
+c4edb229-d296-4ee8-876f-f2d5be777695,ACC78726584,2023-10-16,18816.73,Retail,Debit,North Matthew,False
+bdd4fec7-386f-4e13-b670-f23a3822c125,ACC45014388,2024-08-05,31509.45,Tax,Credit,West Jacobshire,False
+62dc12fd-c5e2-43c2-93dc-286335bc3434,ACC65066130,2024-12-03,632987.98,E-commerce,Credit,Fullerland,False
+cfb8d036-9e46-422b-887b-b736f476e72b,ACC68585611,2023-12-04,415062.73,Medicine,Debit,South Carolyn,True
+843268f8-65eb-4b0a-9f86-c8b73ddbc7fa,ACC78996848,2025-08-29,398532.82,Medicine,Credit,Mariobury,False
+93a6018b-e0e8-45bd-9360-364fbc1d8e14,ACC40549296,2023-04-15,613657.53,Retail,Debit,South Williamstad,False
+f5bfb115-314c-43b4-a66c-92b8972699e3,ACC91530658,2024-03-27,19662.26,Tax,Credit,Gonzalezside,False
+4ae195ac-db29-4b90-8d35-fc35d1873041,ACC42915170,2025-07-26,122238.89,Retail,Debit,Lake Michellechester,False
+601f00d6-3060-4c87-912e-ed959cf116b3,ACC66070824,2023-08-11,348299.82,Retail,Debit,Hollyfurt,False
+d456a288-10ab-4dbb-8c39-66fcc7db5d51,ACC70747435,2024-03-15,737124.5,Retail,Credit,West Ronald,False
+ae5a1d9b-f9c4-4444-89b4-f12321112ba8,ACC20130879,2023-02-17,187709.83,Education,Debit,East Jayburgh,False
+9dad1709-586c-4a5e-a2b6-728dd1a288ca,ACC78492580,2024-12-20,241827.97,Tax,Debit,East Damon,False
+4c2379ad-53fe-405d-ba79-f93353415261,ACC79018510,2025-11-03,735896.98,Medicine,Credit,Lake Richard,False
+034bcb54-b08a-415b-9f92-06dece518d93,ACC41925917,2024-01-08,231681.0,E-commerce,Credit,South Amandaborough,False
+fc6b4d27-9502-407c-9f79-f013ec596e37,ACC22197879,2025-05-10,279364.76,Education,Credit,Pamelaton,False
+1ba063f7-6ebb-4c3f-8ee7-e83cbacf4c73,ACC64023299,2024-01-04,929060.99,Medicine,Credit,Rodriguezchester,False
+6a1f02e0-8d65-4d54-a8d7-6cb1e68298c3,ACC30491121,2024-10-07,664487.64,Education,Credit,New Jack,False
+07c96a87-8784-49e8-b19c-692abef3821e,ACC51260648,2025-04-28,719217.65,E-commerce,Debit,Port Justinmouth,False
+cd1b0655-5314-4b72-a287-c570e7ccb948,ACC11783604,2024-11-24,888851.43,Education,Credit,Lopezberg,False
+f01fc3cb-cc69-46f6-9428-b4536073ac22,ACC39966113,2024-11-25,759138.64,Tax,Credit,Daisyhaven,False
+83610ba9-ed50-4f0f-b75e-22b29bed2ebe,ACC71451343,2024-01-14,638204.66,Tax,Credit,Lake Christopher,False
+2dd1a858-5941-4c9f-b33d-d12a6528e41f,ACC21522172,2024-05-14,349886.0,Education,Debit,Gomezstad,False
+50214a64-db22-44b2-b280-a310b2d435f1,ACC73199614,2023-07-03,586070.28,Medicine,Credit,Deanfort,False
+49308447-3d41-434e-a1e3-f1fc6a05da8f,ACC82302680,2024-02-07,125539.64,Tax,Credit,Bryantfurt,False
+9a5d514c-c740-4d81-8993-90eb117c0ba5,ACC45952687,2024-09-09,628989.0,Tax,Debit,Brownberg,False
