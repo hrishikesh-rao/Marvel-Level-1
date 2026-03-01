@@ -37,6 +37,7 @@ The type of dataset done by me was a fake transaction which contained some featu
 - Appended everything using a loop for total 50 data entries
 - Converted to DataFrame and exported
 
+![](https://github.com/hrishikesh-rao/task/blob/main/image_2026-03-01_234008950.png?raw=true)
 Here's my notebook: [Click Here](https://github.com/hrishikesh-rao/Marvel-Level-1/blob/main/Synthetic_Datset.ipynb)
 
 ---
@@ -111,6 +112,8 @@ Model flags 1 as normal and -1  as anomalous.
 - Both are compared
 - The top 5 suspects are found
 
+  ![](https://github.com/hrishikesh-rao/task/blob/main/image_2026-03-01_234455631.png?raw=true)
+
 Heres my notebook: [Click Here](https://github.com/hrishikesh-rao/Marvel-Level-1/blob/main/Anomaly_Detection.ipynb)
 
 ---
@@ -144,6 +147,12 @@ A separate Loss function is employed as MSE fails to Penalise the difference in 
 
 Like Linear Regression the calculation of optimal parameters(w,b) takes place using optimization and gradient descent.
 
+Overall Loss Function
+![](https://github.com/hrishikesh-rao/task/blob/main/image_2026-03-01_235004217.png?raw=true)
+
+Optimiser Algorithm
+![](https://github.com/hrishikesh-rao/task/blob/main/image_2026-03-01_234824304.png?raw=true)
+
 ### Steps Taken:
 
 - Dataset is loaded and cleaned using pandas
@@ -153,6 +162,7 @@ Like Linear Regression the calculation of optimal parameters(w,b) takes place us
 - The performance parameters are compared
 
   Heres my notebook: [Click here](https://github.com/hrishikesh-rao/Marvel-Level-1/blob/main/Logistic_Regression%20(1).ipynb)
+  
 ---
 
 
