@@ -4,7 +4,7 @@
 
 To do the course 
 
-# Learnings
+## Learnings
 
 Matlab is a math platform wherein a person can do advanced math and programming for solving 
 This course was about Character recognition on the MNIST dataset
