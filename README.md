@@ -1,3 +1,24 @@
+# Task 1 : Matlab Onramp
+
+## Aim:
+
+To do the course 
+
+# Learnings
+
+Matlab is a math platform wherein a person can do advanced math and programming for solving 
+This course was about Character recognition on the MNIST dataset
+
+The coursework stressed on major ML workflow whilst training a model like
+- Loading the dataset
+- Cleaning the dataset
+- Scaling data before using
+- Training the model
+- Evaluation of Scores
+- Hyper Parameter Tuning
+
+  My matlab account crashed so i couldnt put the certificate.
+
 # Task 2 :  Publish Your Own Dataset
 
 ## Aim
@@ -16,7 +37,7 @@ The type of dataset done by me was a fake transaction which contained some featu
 - Appended everything using a loop for total 50 data entries
 - Converted to DataFrame and exported
 
-Here's my notebook: [Click Here](https://github.com/hrishikesh-rao/Marvel-Level-1/blob/main/Synthetic_Datset.ipynb?raw=true)
+Here's my notebook: [Click Here](https://github.com/hrishikesh-rao/Marvel-Level-1/blob/main/Synthetic_Datset.ipynb)
 
 ---
 
@@ -42,7 +63,7 @@ It is one of the building blocks of *Machine Learning* as when we need to deal w
 - Droppped Null values in some features.
 - Imputed values for some features using .fillna() function.
 
-Here's my notebook : [My Notebook](https://www.kaggle.com/code/hrishikeshsrao/datadetox/edit)
+Here's my notebook : ![My Notebook](https://www.kaggle.com/code/hrishikeshsrao/datadetox/edit)
 
 ---
 
@@ -90,7 +111,7 @@ Model flags 1 as normal and -1  as anomalous.
 - Both are compared
 - The top 5 suspects are found
 
-Heres my notebook: [Click Here](https://github.com/hrishikesh-rao/Marvel-Level-1/blob/main/Anomaly_Detection.ipynb?raw=true)
+Heres my notebook: [Click Here](https://github.com/hrishikesh-rao/Marvel-Level-1/blob/main/Anomaly_Detection.ipynb)
 
 ---
 
@@ -105,7 +126,7 @@ To understand and implement Logistic Regression from scratch on the framingham h
 
 **Understanding Classication Algorithm :**
 
-A classification algorithm is such an algorithm which classifies data on the basis of a conidtion in to groups
+A classification algorithm is such an algorithm which classifies data on the basis of a condition in to groups
 
 Logisitc Regression is such a type of classification algorthim spits out a probabilisitc valule of 0.00 or 1.00 based on the given threshold. If the given threshold is 5 lets say on a scale of 1 to 10, then the predicted vallue(lets say 7) would be considered 1 if value>5->1 and 0 if its lesser than 5.
 
@@ -130,6 +151,8 @@ Like Linear Regression the calculation of optimal parameters(w,b) takes place us
 - The logistic Regression Model is implemented from scratch
 - Sklearn's Model is also imported
 - The performance parameters are compared
+
+  Heres my notebook: [Click here](https://github.com/hrishikesh-rao/Marvel-Level-1/blob/main/Logistic_Regression%20(1).ipynb)
 ---
 
 
@@ -170,8 +193,69 @@ Here the kernel used is a rbf(radial basis function). This is creates a very fle
 - Found accuracy wrt noise injected.
 - Did hyper parameter tuning using cross validation.
 
-Heres my notebook [Click Here](https://github.com/hrishikesh-rao/Marvel-Level-1/blob/main/SVM.ipynb?raw=true)
+Heres the plot:
 
+![](https://github.com/hrishikesh-rao/task/blob/main/image_2026-03-01_112848863.png)
+Heres my notebook [Click Here](https://github.com/hrishikesh-rao/Marvel-Level-1/blob/main/SVM.ipynb)
+
+---
+
+# Task 7: Decision Trees from Scratch
+
+## Aim:
+
+To understand and build a **Decision Tree** from scratch using the utrecht fairness dataset and perform the fairness analysis
+
+## Learnings:
+
+### About Decision Trees:
+
+Decison Trees are Supervised ML Algorithm which can be used for Classification or Regression purposes.
+
+Here the Decision Tree is a classifier which predicts if a person gets the job or not.
+
+**Understanding Entropy**:
+
+Entropy or also called the Expected Value, which is used to measure the uncertainity or the impureness of the classified node.\
+If all samples belong to one class,low entropy and if samples are mixed then entropy is high among the low nodes.\
+Our aim is to have low entropy amongst classes,i.e have all related smaples under a class.\
+Simplest algorithms are Gini Impurity Method which assigns an impurity value to all classes to determine the root node for the decision classifier based on the lowest impurity score.\
+The one which is used here is the ID3 Algorithm which stands for Iterative Dichotomiser 3\
+This is the conventionally used formula for calculating the entropy
+
+![](https://github.com/hrishikesh-rao/task/blob/main/Screenshot%202026-03-01%20130215.png?raw=true)
+
+P(i) is the probability of class.\
+Base two is used since there are two outcomes which is hired(encoded as 1) or not hired(encoded as 0) 
+
+**Understanding Information Gain**:
+
+Information Gain is parameter which is used to determine how much the entropy reduces after a split.\
+Information Gain is calculated by total entropy of the dataset minus weighted entropy after the split per feature .\
+Weights are usually the probabilty associated to that dataset.\
+Formula for Information Gain is given by
+
+![](https://github.com/hrishikesh-rao/task/blob/main/image_2026-03-01_180126948.png?raw=true)
+
+**ID3**:
+
+The ID3 algorithm is built on entropy and information gain\
+Inorder to proceed , we must calculate the total entropy of the dataset and entropy after split per feature.\
+Next we determine Information gain of that feature and compare.
+The feature with the max information gain is chosen as the root node.\
+This procedure is repeated keeping the root node's entropy in place of the total entropy and done until no features remain.\
+Acts very simiilar to a recursive function.
+
+
+### Steps Taken:
+
+- Loaded and Cleaned the dataset.
+- Split the ages ranges, and did the overall train_test_split
+-  Built ID3 algorithm
+- Did metric evaluation.
+- Did fairness analysis
+
+Heres my notebook :[](https://github.com/hrishikesh-rao/Marvel-Level-1/blob/main/Decision_Trees.ipynb) 
 ---
 
 # Task 8: KNN Ablation Study
@@ -212,17 +296,56 @@ Heres my notebook [Click Here](https://github.com/hrishikesh-rao/Marvel-Level-1/
 
 ---
 
-# Task 9: Evaluation Metrics:
+# Task 9: Evaluation Metrics
 
-## Aim
-To compare models based on evaluation parameters
+## Aim:
 
-## Learnings
+To evaluate five pretrained machine learning models saved as .pkl files using the Iris dataset, compare their performance using appropriate classification evaluation metrics, and identify the best-performing model.
 
-Joblib is a machine learning library which is used to load models of the form pkl files
+## Learnings:
 
-Also the Evaluation Metrics in this are Precision,Recall,Accuracy and F1_score
+**Understanding Joblib**:
 
-Heres my notebook [Click Here](https://github.com/hrishikesh-rao/Marvel-Level-1/blob/main/Evalutation_Metrics.ipynb?raw=true)
+Joblib is a Python library used for efficient serialization and deserialization of Python objects. In machine learning, it is commonly used to\
+-Save trained models into .pkl (pickle) files.\
+-Load trained models without retraining.\
+-Handle large NumPy arrays efficiently compared to standard pickle.
 
+**Evaluation Metrics**:
+
+F1 score, Accuracy,Precsion and Recall are all derived from Confusion Matrix.\
+Confusion Matrix is the Matrix derived from 4 elements 
+
+![](https://github.com/hrishikesh-rao/task/blob/main/image_2026-03-01_224240054.png?raw=true)
+
+True Positive,False Positive,False Negative and True Negative are the 4 parameters required for calculation of evaluation metrics.
+
+1.**Accuracy**: Measures overall correctness\
+**(TP+TN)/(TP+TN+FP+FN)**
+
+2.**Precision**: Out of all positive samples predicts actual postives,Penalises False Positives\
+**(TP)/(TP+FP)**
+
+3.**Recall**: Out of actual positive samples,how much did model predict correctly,Penailses False Negatives\
+**(TP)/(TP+FN)**
+
+4.**F1 Score**: Penalises imbalances.\
+**2(Precison*Recall)/(Precision + Recall)**
+
+5.**R^2**: Based on prediction error distance\
+Measure closeness to continuous target values 
+
+### Steps Taken:
+
+- Load the iris dataset 
+- Load the Models(.pkl) using Joblib
+- Dropped the id
+- Stratify ensures class imbalance doesnt occur while doing train_test_split()
+- Train the models
+- Evaluate Metrics
+- Compare the models
+
+Heres my notebook [Click Here](https://github.com/hrishikesh-rao/Marvel-Level-1/blob/main/Evalutation_Metrics.ipynb)
+
+---
 
