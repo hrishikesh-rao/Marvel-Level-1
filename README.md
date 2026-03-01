@@ -207,6 +207,7 @@ Here the kernel used is a rbf(radial basis function). This is creates a very fle
 Heres the plot:
 
 ![](https://github.com/hrishikesh-rao/task/blob/main/image_2026-03-01_112848863.png)
+
 Heres my notebook [Click Here](https://github.com/hrishikesh-rao/Marvel-Level-1/blob/main/SVM.ipynb)
 
 ---
